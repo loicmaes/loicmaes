@@ -17,7 +17,7 @@ There is some points:
 ## <a name="social"></a>Social Networks
 
 I'm present on many social networks but mainly on the followings:
-- Instagram: [@loicmaes.services](https://www.instagram.com/loicmaes.services);
+- Instagram: [@uiux.loicmaes](https://www.instagram.com/uiux.loicmaes);
 - Twitter: [@LoicServices](https://www.twitter.com/LoicServices);
 - GitHub: [@loicmaes](https://www.gihtub.com/loicmaes)
 - TikTok: [@uiux.loicmaes](https://www.tiktok.com/@uiux.loicmaes)
