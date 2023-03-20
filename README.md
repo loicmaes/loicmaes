@@ -36,5 +36,6 @@ There is mine:
 [![FrontEndMentor - NFT Preview](https://github-readme-stats.vercel.app/api/pin/?username=loicmaes&repo=frontendmentor-nft-preview&theme=vue)](https://www.github.com/loicmaes/frontendmentor-nft-preview)
 [![FrontEndMentor - Base Apparel coming soon page](https://github-readme-stats.vercel.app/api/pin/?username=loicmaes&repo=frontendmentor-base-apparel&theme=vue)](https://www.github.com/loicmaes/frontendmentor-base-apparel)
 [![FrontEndMentor - Testimonial Grid section](https://github-readme-stats.vercel.app/api/pin/?username=loicmaes&repo=frontendmentor-testimonial-grid&theme=vue)](https://www.github.com/loicmaes/frontendmentor-testimonial-grid)
+[![FrontEndMentor - Results Summary Component](https://github-readme-stats.vercel.app/api/pin/?username=loicmaes&repo=frontendmentor-results-summary&theme=vue)](https://www.github.com/loicmaes/frontendmentor-results-summary)
 
 <!-- ## My Brand -->
